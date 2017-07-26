@@ -6,3 +6,6 @@ Calculator - implemented by following this tutorial:
 http://thecodeinn.blogspot.bg/2013/07/tutorial-pyqt-calculator.html
 
 Simple Text Editor - implemented by following this tutorial: http://thecodeinn.blogspot.bg/2013/07/pyqt-tutorial-simple-text-editor.html
+
+Digital Clock - implemented by following this tutorial:
+http://thecodeinn.blogspot.bg/2013/07/tutorial-pyqt-digital-clock.html
